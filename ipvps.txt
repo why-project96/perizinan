@@ -1,1 +1,2 @@
-13.215.22.149 ( Sg aws 3 month )
+#!/bin/bash
+13.215.22.149 #( Sg aws 3 month )
