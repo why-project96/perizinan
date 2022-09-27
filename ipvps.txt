@@ -1,3 +1,4 @@
 #!/bin/bash
 13.215.22.149 #( Sg aws 3 month )
 52.77.117.253 #( SG Aws 3 month )
+108.137.149.216 #(SG Aws INDONESIA )
